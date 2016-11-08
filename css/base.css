@@ -1,0 +1,25 @@
+/* 去掉标签的默认样式 */
+body,h1,h2,h3,h4,h5,h6,p,pre,ol,ul,form,input,textarea,dl,dt,dd{
+	margin:0px;
+	padding:0px;
+}
+ul,ol{
+	list-style: none;
+}
+a{
+	text-decoration:none;
+	color:#666;
+}
+
+body{
+	background:none;
+}
+*{
+	font-family:"Microsoft YaHei","sans-serif";
+}
+img{
+	border:none;
+}
+i{
+	font-style: normal;
+}
